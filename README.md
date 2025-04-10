@@ -2,7 +2,6 @@
 
 <p align="center">
   ☕ Front-end Developer | Freelancer <br/>
-  🚀 Passionate about building UI/UX with clean code <br/>
 </p>
 
 ---
