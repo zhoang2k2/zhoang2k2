@@ -36,7 +36,7 @@
 ## Other Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" style="filter: invert(100%);" />
   <img src="https://www.chartjs.org/media/logo-title.svg" width="40" />
   <img src="https://seeklogo.com/images/M/microsoft-excel-logo-8F0C9E22C2-seeklogo.com.png" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
