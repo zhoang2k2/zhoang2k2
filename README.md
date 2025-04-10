@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hoang Nguyen</h1>
+<h1 align="center">Hi there, I'm Hoang Nguyen👋</h1>
 
 <p align="center">
   ☕ Front-end Developer | Freelancer <br/>
