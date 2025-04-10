@@ -9,22 +9,29 @@
 
 ### 🛠️ Tech Stack I use frequently:
 
-#### Languages:
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) 
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) 
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) 
-![SASS](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
+## Tech Stack
 
-#### UI & CSS Framework:
-![MUI](https://cdn.worldvectorlogo.com/logos/material-ui-1.svg)
-![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-![Ant Design](https://cdn.worldvectorlogo.com/logos/ant-design.svg)
+### Languages:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+</p>
 
-#### Framework & Library:
-![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-![NextJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)
+### UI & CSS Framework:
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/ant-design.svg" width="40" />
+</p>
+
+### Framework & Library:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
+</p>
 
 ---
 
