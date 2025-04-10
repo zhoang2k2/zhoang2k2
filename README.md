@@ -38,7 +38,6 @@
 <p align="left">
    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="40" />
   <img src="https://www.chartjs.org/media/logo-title.svg" width="40" />
-  <img src="https://seeklogo.com/images/M/microsoft-excel-logo-8F0C9E22C2-seeklogo.com.png" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 </p>
