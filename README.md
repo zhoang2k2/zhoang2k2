@@ -23,8 +23,8 @@
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/ant-design.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="40" />
 </p>
 
 ### Framework & Library:
@@ -32,6 +32,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
 </p>
+
+## Other Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" />
+  <img src="https://seeklogo.com/images/M/microsoft-excel-logo-8F0C9E22C2-seeklogo.com.png" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+</p>
+
 
 ---
 
