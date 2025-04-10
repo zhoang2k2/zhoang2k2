@@ -33,10 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" />
 </p>
 
-## Other Skills
-
+### Other Skills
 <p align="left">
-   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="40" />
   <img src="https://www.chartjs.org/media/logo-title.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
