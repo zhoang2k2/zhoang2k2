@@ -1,8 +1,16 @@
-<h1 align="center">Hi there, I'm Hoang Nguyen👋</h1>
+<h1 align="center">Hoang Nguyen — Front-end Developer</h1>
 
 <p align="center">
-  ☕ Front-end Developer | Freelancer <br/>
+  ☕ A responsible developer who values supports the team when needed, and focuses on building responsive and SEO-friendly web interfaces.
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a front-end developer based in Da Nang, Vietnam, currently working full-time at **Classmethod Vietnam**.  
+I’m also collaborating with a UK-based client on an NFT-related project.  
+Open to freelance opportunities and always willing to support new web-based ideas.  
 
 ---
 
@@ -51,4 +59,6 @@
 
 ---
 
-<p align="center">Thank you for visiting my profile! ❤️</p>
+<p align="center">
+  Thanks for visiting! 🙌 Feel free to connect with me on any platform.
+</p>
