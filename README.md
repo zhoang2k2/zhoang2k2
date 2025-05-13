@@ -8,10 +8,8 @@
 
 ### 🛠️ Tech Stack I use frequently:
 
-## Tech Stack
-
 ### Languages & Web Basics:
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
@@ -19,7 +17,7 @@
 </p>
 
 ### UI & CSS Framework:
-<p align="left">
+<p>
   <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
@@ -27,7 +25,7 @@
 </p>
 
 ### Framework & Library:
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" />
