@@ -1,7 +1,7 @@
-<h1 align="center">Hoang Nguyen — Front-end Developer</h1>
+<h1 align="center">Hoang Nguyen — Front-end Developer from Da Nang</h1>
 
 <p align="center">
-  ☕ A responsible developer who values supports the team when needed, and focuses on building responsive and SEO-friendly web interfaces.
+  ☕ A front-end developer based in Da Nang, Vietnam. <br/> I build responsive, SEO-friendly web interfaces with a focus on collaboration and reliability.
 </p>
 
 ---
@@ -10,13 +10,13 @@
 
 I'm a front-end developer based in Da Nang, Vietnam, currently working full-time at **Classmethod Vietnam**.  
 I’m also collaborating with a UK-based client on an NFT-related project.  
-Open to freelance opportunities and always willing to support new web-based ideas.  
+I'm open to freelance opportunities and excited to support new web-based ideas and projects.
 
 ---
 
 ### 🛠️ Tech Stack I use frequently:
 
-### Languages & Web Basics:
+#### Languages & Web Basics:
 <p>
   <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
   <img alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
@@ -24,7 +24,7 @@ Open to freelance opportunities and always willing to support new web-based idea
   <img alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
 </p>
 
-### UI & CSS Framework:
+#### UI & CSS Framework:
 <p>
   <img alt="material ui" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" />
   <img alt="tailwind css" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
@@ -32,14 +32,14 @@ Open to freelance opportunities and always willing to support new web-based idea
   <img alt="ant design" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="40" />
 </p>
 
-### Framework & Library:
+#### Framework & Library:
 <p>
   <img alt="reactjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
   <img alt="nextjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
   <img alt="electronjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" />
 </p>
 
-### Other Skills
+#### Other Skills
 <p align="left">
   <img alt="github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="40" />
   <img alt="chartjs" src="https://www.chartjs.org/media/logo-title.svg" width="40" />
